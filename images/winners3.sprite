@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="winners3" IsPhone="false" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="5537cbdc7b199.jpeg" LocationX="0" LocationY="0" />
+    <Sprite Path="5447c724c7f0d.jpeg" LocationX="127" LocationY="0" />
+    <Sprite Path="540de1adca103.jpeg" LocationX="0" LocationY="120" />
+    <Sprite Path="5540f961743ad.jpeg" LocationX="255" LocationY="0" />
+    <Sprite Path="54476cb1be174.jpeg" LocationX="128" LocationY="120" />
+    <Sprite Path="5620c90d8482f.jpeg" LocationX="383" LocationY="0" />
+    <Sprite Path="5595f4b7000b0.jpeg" LocationX="255" LocationY="120" />
+    <Sprite Path="54f1b7ab596e2.jpeg" LocationX="513" LocationY="119" />
+    <Sprite Path="54cb8ff5a5753.jpeg" LocationX="383" LocationY="120" />
+    <Sprite Path="53f6cebdb05fa.jpeg" LocationX="511" LocationY="0" />
+    <Sprite Path="54ff221041802.jpeg" LocationX="0" LocationY="232" />
+    <Sprite Path="523c0c6393990.jpeg" LocationX="128" LocationY="232" />
+    <Sprite Path="509d1176de1f7.jpeg" LocationX="384" LocationY="232" />
+    <Sprite Path="55e6275da2ddc.jpeg" LocationX="255" LocationY="231" />
+    <Sprite Path="54e78435b9dd7.png" LocationX="0" LocationY="0" />
+    <Sprite Path="547e36f11e834.png" LocationX="513" LocationY="232" />
+    <Sprite Path="5538481d54dc1.png" LocationX="0" LocationY="0" />
+    <Sprite Path="certificates.png" LocationX="761" LocationY="177" />
+    <Sprite Path="5541fe69946dd.jpg" LocationX="624" LocationY="0" />
+    <Sprite Path="552f74eb44d19.jpg" LocationX="0" LocationY="0" />
+    <Sprite Path="jury-5.jpg" LocationX="761" LocationY="0" />
+  </SpriteList>
+</SpriteFile>

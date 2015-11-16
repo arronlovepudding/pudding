@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="winner" IsPhone="false" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="cphone.png" LocationX="0" LocationY="0" />
+    <Sprite Path="fsd.png" LocationX="100" LocationY="48" />
+    <Sprite Path="afd.png" LocationX="49" LocationY="48" />
+    <Sprite Path="af.png" LocationX="47" LocationY="0" />
+    <Sprite Path="cp.png" LocationX="0" LocationY="49" />
+    <Sprite Path="tt.png" LocationX="89" LocationY="0" />
+    <Sprite Path="new.png" LocationX="0" LocationY="104" />
+    <Sprite Path="hf .png" LocationX="150" LocationY="0" />
+    <Sprite Path="conferences.png" LocationX="370" LocationY="0" />
+    <Sprite Path="certificates.png" LocationX="637" LocationY="0" />
+    <Sprite Path="icon.png" LocationX="0" LocationY="227" />
+    <Sprite Path="s.png" LocationX="367" LocationY="222" />
+    <Sprite Path="552d1c2283e07.jpg" LocationX="912" LocationY="0" />
+    <Sprite Path="562a72e34019a.jpg" LocationX="1168" LocationY="0" />
+    <Sprite Path="55d608009d2fa.jpg" LocationX="1263" LocationY="0" />
+    <Sprite Path="51b242ddf3a8e.jpg" LocationX="1168" LocationY="64" />
+    <Sprite Path="552f74eb44d19.jpg" LocationX="911" LocationY="216" />
+    <Sprite Path="webydo.png" LocationX="1136" LocationY="216" />
+  </SpriteList>
+</SpriteFile>
